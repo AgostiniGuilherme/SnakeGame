@@ -40,5 +40,6 @@ Press space to start and use the arrow keys to move the snake.
 - Explore techniques for animation and continuous game state updating.
 - Enhance skills in interface design using CSS Grid for responsive layout.
 
-
 ---
+
+![image](https://github.com/AgostiniGuilherme/SnakeGame/assets/51136970/28986d90-38bc-40a5-a419-2de0ff671fd2)
